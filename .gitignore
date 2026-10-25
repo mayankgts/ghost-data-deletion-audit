@@ -1,0 +1,10 @@
+code/cache/
+.env
+dataset/
+code/cache/observations.json
+code/cache/*_predictions.csv
+code/cache/custom_requests.csv
+__pycache__/
+*.zip
+.env
+set_env.ps1
